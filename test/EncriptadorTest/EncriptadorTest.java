@@ -5,6 +5,12 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import Encriptador.Encriptador;
+import Encriptador.EncriptadorNaive;
+import Encriptador.EncriptadorNumero;
+import Encriptador.EncriptadorOrden;
+import Encriptador.EncriptadorVocal;
+
 class EncriptadorTest {
 	
 	private Encriptador encriptadorBase;

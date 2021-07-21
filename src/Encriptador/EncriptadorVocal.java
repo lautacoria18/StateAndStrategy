@@ -1,4 +1,4 @@
-package EncriptadorTest;
+package Encriptador;
 
 public class EncriptadorVocal implements Encriptador {
 

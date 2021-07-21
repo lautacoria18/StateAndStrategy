@@ -1,4 +1,4 @@
-package EncriptadorTest;
+package Encriptador;
 
 import java.util.Arrays;
 import java.util.Collections;
